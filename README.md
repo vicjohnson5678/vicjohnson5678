@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Nimbus Health)](https://github.com/BrockSamson777/microsoft-sentinel-threat-hunt)****
+- **[Threat Hunting Scenario (Nimbus Health)](https://github.com/BrockSamson777/microsoft-sentinel-threat-hunt)**
 
 <hr/>
 
