@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor)](https://github.com/BrockSamson777/threat-hunting-scenario-tor-).**
+- **[Threat Hunting Scenario (Tor)](https://github.com/BrockSamson777/threat-hunting-scenario-tor-)**
 - **[Threat Hunting Scenario (Nimbus Health)](https://github.com/BrockSamson777/microsoft-sentinel-threat-hunt)**
 - **[Windows 11 STIG Hardening](https://github.com/BrockSamson777/windows-11-stig-hardening)**
 <hr/>
