@@ -1,7 +1,7 @@
 # <a href= "https://www.linkedin.com/in/v-johns/" >Victor Johnson</a>'s IT and Cybersecurity Project Portfolio
 I'm passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects.
 
-Here you will see projects focused on vulnerability management, threat hunting, security operations, system hardening, compliance, and incident investigation. I use this GitHub to document how I analyze security issues, investigate suspicious activity, implement technical remediations, and improve security operations and processes.
+Here you’ll find projects that reflect the areas of cybersecurity I’ve been most interested in building hands-on experience with, including vulnerability management, threat hunting, security operations, system hardening, compliance, and incident investigation. I use this GitHub to document what I’m learning, how I approach security problems, and the work I’ve done to investigate issues, implement remediations, and strengthen security processes.
 
 My goal is to continue building practical experience with the tools, processes, and methodologies used in real-world cybersecurity environments.
 
